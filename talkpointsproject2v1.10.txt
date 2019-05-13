@@ -1,0 +1,69 @@
+! = talk point
+? = should i implement
+//= comment para me
+[] = onomotopeeeaaaaaa
+` = movement
+-> = talk flow
+~ transition to
+CAPS = LOOKITMEEEEEEEE
+... = pause for effect
+^ = inflection
+% = time check
+
+%TIMECODE CHECK%
+
+talkpoints for presentation
+ -> intro about problems as a class they can relate to
+	
+<bring to emotional connection> 
+
+timemanagment with work and pressure to finish homeworks, getting no sleep, //?working in a group=interpersonal conflicts? 
+
+!intro "I would bet we've all had issues to work on...within the groups...within our personal life....^our timemanagement skill...juggling work...and life's suprizes...which tend to appear when we're the most stressed...we all decided to 	take this class and add to that...
+	I know for me...sleep has become an old friend I wish I could see more of...and this project hasn't allieviated my feelings about that at all" 
+
+!intro "so I'd like to start with during this project I started to think about this class, and code, as a puzzle, this class is about solving problems, kind of like a puzzle, right? 
+
+!intro "This isn't about being perfect, I think its more about being able to tackle issues and work through them, like that puzzle...I wanted to find the place my piece fit which was most beneficial to our dynamic"
+
+%%
+//personal problems
+
+!prpb "I found my role to be more bug fixing and troubleshooting errors with jonathan on backend hes a wiz and I'm not in the same place"
+
+//lighter note
+! "I began to think of myself as a rubber duck [!QUACK] `silly antics`"
+
+!prpb "I had to read through group members code and I realized that there were holes in my understanding, and I had to take the time to go backwards to relearn and work through them"
+
+!prpb "Other problems I recognized in my own ability....My typing skills aren't as profienct as I'd Like them to be"
+
+
+%%
+//break
+
+
+
+! working by oneself is easier but working with a team can be stressful *life happens* time reading through group code 
+
+! we can all probably relate to thinking we know nothing...these are tough concepts to grasp especially at the rate we are working"
+
+FIREBASE	-> firebase security -> packet sniffed hash password decode -> scrapped email, phone number, profile picture <tyler too> removing from public asap 
+
+! "we used firebase AUTH having to trouble shoot the code on a new concept"
+
+!  "While troubleshooting, I noticed that our google information was being stored locally...and having experience on the darker side of the internet it didn't sit right with me"
+	
+	-> low commits due to problems with git hub commits -> learning git commands ~ rebase, ?merge conficts?, BRANCH CONTROL,
+ 
+        -> finding api and connection
+	-> redirect using AJAX then jon's one line of code
+
+%% 
+
+//more issues
+	-> bug finding and debugger use ~ pass file location in .vscode/lauch.json ~ add breakpoints ~ DEBUG!
+	-> conflicts with file structure/management
+	-> 
+
+// reorder before talk 
